@@ -16,7 +16,7 @@ function Menu() {
         { dish: 'Mutta Parata', price: '20.00' },
         { dish: 'Veech Parata', price: '25.00' },
         { dish: 'Egg Veech Parata', price: '30.00' },
-        { dish: 'Kalki', price: '15.00' },
+        { dish: 'Kalaki', price: '15.00' },
         { dish: 'Mutta Porial', price: '15.00' },
         { dish: 'Puri Set', price: '30.00' },
         { dish: 'Pongal', price: '25.00' },
