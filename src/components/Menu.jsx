@@ -46,7 +46,7 @@ function Menu() {
         { dish: 'Chicken Soup', price: '25.00' },
     ]
     return (
-        <div id='menu' className='flex items-center justify-center lg:mt-20 md:mt-30 mt-56 relative'>
+        <div id='menu' className='flex items-center justify-center mt-24 mb-24 pb-24 pt-24 relative'>
             <img src={MenuImg1} alt="Menu img" className='absolute top-0 right-0 w-60 md:w-96'/>
             <img src={MenuImg2} alt="Menu img" className='absolute bottom-0 left-0 w-60 md:w-96'/>
             <div className='flex flex-col items-center justify-center w-4/5 bg-white text-black p-10 rounded-md'>
