@@ -13,7 +13,7 @@ function Contact() {
             <li className='hover:text-yellow-400'><a href="">Feedback</a></li>
             <li className='hover:text-yellow-400'><a href="">helpsif@gmail.com</a></li>
         </ul>
-        <footer className='text-center'>©copyright 2024</footer>
+        <footer className='text-center'>south india restaurant ©copyright 2024</footer>
     </div>
   )
 }
